@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there! 👋
+
+I am a licensed psychotherapist transitioning to software engineer. I am currently enrolled in Georgia Tech's Full Stack Web Development bootcamp and I'm always looking for complex problems to solve. 
+
+I have graduate degrees in Clinical Psychology (USC) and Comparative Religion (UGA), with professional experience in the rehabilitation of incarcerated individuals and medication-assisted treatment for Opioid Use Disorder and other addictive disease. I presently work in mental health compliance and quality assurance as a Compliance Manager for a large mental health tech start-up.
+
+Working in these fields has demonstrated the need for innovative assistive technologies in the health sector, and I am so excited to knit together my interests in healthcare and software engineering.
+
+You can find me on my [LinkedIn](https://www.linkedin.com/in/amandacdulaney/) or at my [Portfolio site](https://quadrilateral0.github.io/ACD-Portfolio/). I love to collaborate or just make friends, so drop me a line!
 
 <!--
 **Quadrilateral0/Quadrilateral0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
