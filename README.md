@@ -1,10 +1,10 @@
 ### Hi there! 👋
 
-I am a licensed psychotherapist transitioning to software engineer. I am currently enrolled in Georgia Tech's Full Stack Web Development bootcamp and I'm always looking for complex problems to solve. 
+I am a licensed clinician leveraging a background in healthcare management, compliance/QA, and clinical psychology. I am currently enrolled in Georgia Tech's Full Stack Coding certificate program to develop a data management skill set with an emphasis on backend and database technologies.
 
-I have graduate degrees in Clinical Psychology (USC) and Comparative Religion (UGA), with professional experience in the rehabilitation of incarcerated individuals and medication-assisted treatment for Opioid Use Disorder and other addictive disease. I presently work in mental health compliance and quality assurance as a Compliance Manager for a large mental health tech start-up.
+I have graduate degrees in Clinical Psychology (USC) and Comparative Religion (UGA), and I presently work in mental health compliance and quality assurance as a Licensing & Regulatory Compliance Manager for a large mental health tech start-up.
 
-Working in these fields has demonstrated the need for innovative assistive technologies in the health sector, and I am so excited to knit together my interests in healthcare and software engineering.
+Working in these fields has demonstrated the need for innovative assistive technologies in the health sector, and I am excited to knit together my interests in mental healthcare, compliance, and software engineering.
 
 You can find me on my [LinkedIn](https://www.linkedin.com/in/amandacdulaney/) or at my [Portfolio site](https://quadrilateral0.github.io/ACD-Portfolio/). I love to collaborate or just make friends, so drop me a line!
 
