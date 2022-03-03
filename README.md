@@ -4,7 +4,7 @@ I am a licensed clinician leveraging a background in healthcare management, comp
 
 I have graduate degrees in Clinical Psychology (USC) and Comparative Religion (UGA), and I presently work in mental health compliance and quality assurance as a Licensing & Regulatory Compliance Manager for a mental health tech start-up.
 
-Working in these fields has demonstrated the need for innovative assistive technologies in the health sector, and I am excited to knit together my interests in mental healthcare, compliance, and software engineering.
+Working in these fields has demonstrated the need for innovative assistive technologies in the health sector, and I am excited to knit together my interests in mental healthcare, compliance, and software engineering to create a better healthcare experience for all.
 
 You can find me on my [LinkedIn](https://www.linkedin.com/in/amandacdulaney/) or at my [Portfolio site](https://quadrilateral0.github.io/ACD-Portfolio/). I love to collaborate or just make friends, so drop me a line!
 
