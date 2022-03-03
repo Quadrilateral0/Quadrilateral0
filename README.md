@@ -2,7 +2,7 @@
 
 I am a licensed clinician leveraging a background in healthcare management, compliance/QA, and clinical psychology. I am currently enrolled in Georgia Tech's Full Stack Coding certificate program to develop a data management skill set with an emphasis on backend and database technologies.
 
-I have graduate degrees in Clinical Psychology (USC) and Comparative Religion (UGA), and I presently work in mental health compliance and quality assurance as a Licensing & Regulatory Compliance Manager for a mental health tech start-up.
+I have a Master of Science in Clinical Psychology (USC) and I presently work in mental health compliance and quality assurance as a Licensing & Regulatory Compliance Manager for a mental health tech start-up. Prior to my current role, I served as Director of a medication-assisted treatment facility for Opioid Use Disorder.
 
 Working in these fields has demonstrated the need for innovative assistive technologies in the health sector, and I am excited to knit together my interests in mental healthcare, compliance, and software engineering to create a better healthcare experience for all.
 
