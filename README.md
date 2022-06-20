@@ -1,12 +1,12 @@
 ### Hi there! 👋
 
-I am a licensed mental health clinician leveraging a background in healthcare management, compliance/QA, and clinical psychology. I am currently enrolled in Georgia Tech's Full Stack Coding certificate program to support a data management skill set with an emphasis on backend and database technologies.
+You can find me on my [LinkedIn](https://www.linkedin.com/in/amandacdulaney/) or at my [Portfolio site](https://quadrilateral0.github.io/ACD-Portfolio/). I love to collaborate or just make friends, so drop me a line!
+
+<!-- I am a licensed mental health clinician leveraging a background in healthcare management, compliance/QA, and clinical psychology. I am currently enrolled in Georgia Tech's Full Stack Coding certificate program to support a data management skill set with an emphasis on backend and database technologies.
 
 I have a Master of Science in Clinical Psychology (USC) and I presently work in mental health compliance and quality assurance as a Licensing & Regulatory Compliance Manager for a mental health tech start-up. Prior to my current role, I served as Director of an addiction treatment facility.
 
-Working in these fields has demonstrated the need for innovative assistive technologies in the health sector, and I am excited to knit together my interests in mental healthcare, compliance, and software engineering to create a better healthcare experience for all.
-
-You can find me on my [LinkedIn](https://www.linkedin.com/in/amandacdulaney/) or at my [Portfolio site](https://quadrilateral0.github.io/ACD-Portfolio/). I love to collaborate or just make friends, so drop me a line!
+Working in these fields has demonstrated the need for innovative assistive technologies in the health sector, and I am excited to knit together my interests in mental healthcare, compliance, and software engineering to create a better healthcare experience for all. -->
 
 <!--
 **Quadrilateral0/Quadrilateral0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
