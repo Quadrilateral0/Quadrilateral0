@@ -1,4 +1,5 @@
 ### Hi there! 👋
+Licensed clinician leveraging a background in healthcare management, compliance/QA, and program development. Completed Georgia Tech's Full Stack Software Engineering certificate program to support a data management skillset with experience in MERN stack technologies. Analytical and personable, and equally comfortable leading a team as with solving complex problems. Integrating treatment, compliance, and technology to create improved healthcare experiences for all.
 
 You can find me on my [LinkedIn](https://www.linkedin.com/in/amandacdulaney/) or at my [Portfolio site](https://quadrilateral0.github.io/ACD-Portfolio/). I love to collaborate or just make friends, so drop me a line!
 
